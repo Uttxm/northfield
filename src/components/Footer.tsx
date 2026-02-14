@@ -15,6 +15,7 @@ const services = [
     'Piping & Welding',
     'Painting & Coating',
     'Scaffolding',
+    'Government Relations & PRO Services',
 ]
 
 export default function Footer() {
@@ -107,3 +108,4 @@ export default function Footer() {
         </footer>
     )
 }
+
